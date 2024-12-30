@@ -1,0 +1,9 @@
+Proyecto FINAL - FASHION STORE
+
+Juan Wilson Mallcu Morales
+
+Pasos para iniciar el proyecto
+1) npm install
+2) npm install -g json-server
+2) json-server --watch db.json --port 3000         //Ejecuta JSON Server, ejecutar en la carpeta donde esta elarchivo db.json
+3) npm run serve                                   //Inicia el aplicativo	
